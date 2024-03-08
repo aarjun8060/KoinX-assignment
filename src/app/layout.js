@@ -6,14 +6,14 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "BitCoin Hub",
-  description: "",
+  description: "KoinX assignment ",
 };
 
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className={`bg-gray-100 ${inter.className}`}>
-      <NavBar/>
+        <NavBar/>
       {children}
       </body>
     </html>
