@@ -1,3 +1,5 @@
+![cover-img](https://github.com/aarjun8060/KoinX-assignment/blob/main/public/Screenshot%202024-03-09%20022349.png)
+
 # KoinX-Assignment
 Welcome to Bitcoin Hub, your ultimate resource for all things related to Bitcoin! Whether you're a seasoned investor, a curious newcomer, or just someone intrigued by the concept of decentralized finance, Bitcoin Hub is here to guide you through the exciting realm of digital currency.
 ## Table of Contents
@@ -51,6 +53,9 @@ npm install
  ```
  
 ## Screenshots
- 
+ ![img](https://github.com/aarjun8060/KoinX-assignment/blob/main/public/Screenshot%202024-03-09%20022349.png)
+![img](https://github.com/aarjun8060/KoinX-assignment/blob/main/public/Screenshot%202024-03-09%20022407.png)
+![img](https://github.com/aarjun8060/KoinX-assignment/blob/main/public/Screenshot%202024-03-09%20022418.png)
+
 
  
